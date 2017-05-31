@@ -7,7 +7,7 @@
 	<body>
 		<table align = "center">
 			<tr>
-				<td>
+				<td>ye to trailer hai 
 					<%@ include file ="Alumini.inc" %>
 				</td>
 			</tr>
